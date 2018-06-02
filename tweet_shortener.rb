@@ -11,3 +11,11 @@ def dictionary(tweet)
   "and" => "&"
 }
 end 
+
+
+
+
+
+
+
+
