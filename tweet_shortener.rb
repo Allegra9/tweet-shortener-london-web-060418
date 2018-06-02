@@ -1,4 +1,4 @@
-def dictionary
+def dictionary(tweet)
   
   
 end 
