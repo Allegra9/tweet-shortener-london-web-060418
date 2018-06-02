@@ -1,4 +1,4 @@
-def dictionary(tweet)
+def dictionary
   dictionary = {
   "hello" => "hi",
   "to" => "2",
